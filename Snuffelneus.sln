@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnuffelneusAPI", "SnuffelneusAPI\SnuffelneusAPI.csproj", "{C5B7458C-4F8E-43FA-96FF-F2C69D6BF763}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnuffelneusDatabase", "SnuffelneusDatabase\SnuffelneusDatabase.csproj", "{7C7E1178-9629-40A5-A30B-25F0121C7A89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnuffelneusTest", "SnuffelneusTest\SnuffelneusTest.csproj", "{99B2EF82-04B6-490A-A5A2-59B42D4C1972}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://raymens.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SnuffelneusAPI\\SnuffelneusAPI.csproj
+		SccProjectName1 = SnuffelneusAPI
+		SccLocalPath1 = SnuffelneusAPI
+		SccProjectUniqueName2 = SnuffelneusDatabase\\SnuffelneusDatabase.csproj
+		SccProjectName2 = SnuffelneusDatabase
+		SccLocalPath2 = SnuffelneusDatabase
+		SccProjectUniqueName3 = SnuffelneusTest\\SnuffelneusTest.csproj
+		SccProjectName3 = SnuffelneusTest
+		SccLocalPath3 = SnuffelneusTest
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5B7458C-4F8E-43FA-96FF-F2C69D6BF763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5B7458C-4F8E-43FA-96FF-F2C69D6BF763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5B7458C-4F8E-43FA-96FF-F2C69D6BF763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5B7458C-4F8E-43FA-96FF-F2C69D6BF763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7E1178-9629-40A5-A30B-25F0121C7A89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7E1178-9629-40A5-A30B-25F0121C7A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7E1178-9629-40A5-A30B-25F0121C7A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7E1178-9629-40A5-A30B-25F0121C7A89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B2EF82-04B6-490A-A5A2-59B42D4C1972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B2EF82-04B6-490A-A5A2-59B42D4C1972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B2EF82-04B6-490A-A5A2-59B42D4C1972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B2EF82-04B6-490A-A5A2-59B42D4C1972}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
